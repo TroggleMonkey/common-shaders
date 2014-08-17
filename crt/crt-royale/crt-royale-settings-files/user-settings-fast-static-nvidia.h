@@ -121,7 +121,7 @@
 
 //  Note: Many of these static parameters are overridden by runtime shader
 //  parameters when those are enabled.  However, many others are static codepath
-//  options that were cleaner or more convert to code as static constants.
+//  options that were cleaner or more convenient to code as static constants.
 
 //  GAMMA:
     static const float crt_gamma_static = 2.5;                  //  range [1, 5]
